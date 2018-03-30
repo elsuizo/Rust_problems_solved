@@ -1,0 +1,6 @@
+[package]
+name = "fill_function"
+version = "0.1.0"
+authors = ["elsuizo <mnoblia@disroot.org>"]
+
+[dependencies]
